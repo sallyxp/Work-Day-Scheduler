@@ -25,10 +25,7 @@ This page is primarily intended to run a quiz as per the original specification.
 
 ## Credits
 
-The original specification is located withim this repository.
-
-https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-11-2020-u-c/tree/master/Week-05-Third-Party-APIs/02-Homework
-
+The original specification is located within the class repository.
 
 
 ## License
