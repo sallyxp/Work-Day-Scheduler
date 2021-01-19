@@ -16,6 +16,7 @@ This project creates a simple calendar application to allow a user to save event
 
 What are the steps required to install this project? 
 Merely type in the URL listed below into the internet to access the site online as you would any other web page. 
+   The Github page is loctated at  https://sallyxp.github.io/HWUnit05/.
 
 
 ## Usage 
