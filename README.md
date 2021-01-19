@@ -21,12 +21,12 @@ Merely type in the URL listed below into the internet to access the site online 
 
 ## Usage 
 
-This page is primarily intended to run a quiz as per the original specification.  That is to create and run multiple choice questions on Javascript, written in Javascript.
+This page is primarily intended to run a day scheduler, to allow a user to create and save events for each hour of the day.  
 
 
 ## Credits
 
-The original specification is located within the class repository.
+The original specification is located within the class repository.  This version uses Moment.js to access its date and times.
 
 
 ## License
@@ -62,8 +62,11 @@ SOFTWARE.
 ## Tests
 
 1. Does the page open at the given location?
-2. Is the Multiple choice quiz displayed if 'Start Quiz' is clicked?
-3. Does the timer deduct 10 seconds if a question is answered incorrectly?
+2. Is today's date and format correctly displayed?
+3. Is information (previously entered and saved) retrieved correctly and in the correct location?
+4. Does the screen layout match the original specification, including colours?
+
+
 4. Does the correct score display at the end of the program?
 
 ---
