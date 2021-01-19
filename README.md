@@ -4,7 +4,7 @@
 
 This project creates a simple calendar application to allow a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-//blob/main/DayScheduler.png
+//github.com/sallyxp/HWUnit05/edit/main/DayScheduler.png
 
 
 
