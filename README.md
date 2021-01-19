@@ -4,6 +4,9 @@
 
 This project creates a simple calendar application to allow a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+
+
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -16,7 +19,7 @@ This project creates a simple calendar application to allow a user to save event
 
 What are the steps required to install this project? 
 Merely type in the URL listed below into the internet to access the site online as you would any other web page. 
-   The Github page is loctated at  https://sallyxp.github.io/HWUnit05/.
+   The Github page is located at  https://sallyxp.github.io/HWUnit05/.
 
 
 ## Usage 
@@ -26,9 +29,7 @@ This page is primarily intended to run a day scheduler, to allow a user to creat
 
 ## Credits
 
-The original specification is located within the class repository.  This version uses Moment.js to access its date and times.
-
-
+The original specification is located within the class repository.  This version uses Moment.js to access its date and times.  
 ## License
 
 MIT License
