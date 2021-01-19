@@ -25,10 +25,13 @@ textarea{
   white-space: pre-wrap;
 }
 
+
+/*
 .form-control{
   text-align: center;
   border-radius: 15px;
-}
+  width: 100%;
+}*/
 
 .row {
   white-space: pre-wrap;
@@ -37,12 +40,6 @@ textarea{
 }
 
 .hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
-}
-
-.input-group-text {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
@@ -75,6 +72,19 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
 .save {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
