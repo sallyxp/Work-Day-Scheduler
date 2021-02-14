@@ -1,4 +1,4 @@
-# Project: Schedule-Your-Day
+# Project: Work-Day-Scheduler
 
 ## Description 
 
