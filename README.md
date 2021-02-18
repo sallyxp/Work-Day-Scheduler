@@ -28,7 +28,7 @@ Merely type in the URL listed below into the internet to access the site online 
 ## Usage 
 
 This page is primarily intended to run a day scheduler, to allow a user to create and save events for each hour of the day.  
-
+![alt text](assets/images/DayScheduler.png)
 
 ## Credits
 
